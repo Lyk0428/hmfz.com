@@ -2,6 +2,50 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.2.0](https://github.com/theodorusclarence/theodorusclarence.com/compare/v3.1.0...v3.2.0) (2023-10-03)
+
+
+### Features
+
+* add blog structured data to seo ([c06e9e6](https://github.com/theodorusclarence/theodorusclarence.com/commit/c06e9e6a75a25cfe9acb1691d9a410c77d81e043))
+* add carbon ads ([592b44e](https://github.com/theodorusclarence/theodorusclarence.com/commit/592b44ef09e1a53fc0e0a1b0b695dd35c151a3db))
+* add comma to thousands in GithubCard ([77451d4](https://github.com/theodorusclarence/theodorusclarence.com/commit/77451d49334adbac6d2ca14af18dbf82a86f291a))
+* add conditional link short ([5c9d871](https://github.com/theodorusclarence/theodorusclarence.com/commit/5c9d8711ad350809386ab2a79168534c5b6240ff))
+* add mdx-hot-reload shorts ([5c9bdaa](https://github.com/theodorusclarence/theodorusclarence.com/commit/5c9bdaa024d41c95328338add90e93ed43ea079a))
+* add more context to mdx-hot-reload ([b319ccc](https://github.com/theodorusclarence/theodorusclarence.com/commit/b319cccd1e5ad88e2cdb8578bfb8727aca2a5a0f))
+* add redirect from library ([4f00bb7](https://github.com/theodorusclarence/theodorusclarence.com/commit/4f00bb7ac6d52a0b793c3f1fb2a8ca5bb4778901))
+* add size cap of 1000 to mdx images ([4b232c0](https://github.com/theodorusclarence/theodorusclarence.com/commit/4b232c009a30c8be0688292974b67529fc4f6363))
+* add tracker to sponsor ([d2278ed](https://github.com/theodorusclarence/theodorusclarence.com/commit/d2278eda7287a026975f9051ad2c85fccd2369b2))
+* allow mdx to use nested contents ([f83bfc9](https://github.com/theodorusclarence/theodorusclarence.com/commit/f83bfc9fec6629308b56c8d9056576b34a33beea))
+* allow to add repost blog canonical ([6afe483](https://github.com/theodorusclarence/theodorusclarence.com/commit/6afe4838e9f29de41e19d2c1f2493ba17d001663))
+* **blog:** add nextjs-auth-hoc ([3d9d556](https://github.com/theodorusclarence/theodorusclarence.com/commit/3d9d556e4399c1d7f98c9ec1d38ceafd1ef31f72))
+* **blog:** add nextjs-boilerplate-2023 ([caa4a53](https://github.com/theodorusclarence/theodorusclarence.com/commit/caa4a53192225b49ea1a8dd24b140adc92797b27))
+* **blog:** add quote to 2022-retrospective ([8cd1c50](https://github.com/theodorusclarence/theodorusclarence.com/commit/8cd1c501272e9043ef2430f860f3612b856c0493))
+* **blog:** typo in nextjs-fetch-method ([a61a470](https://github.com/theodorusclarence/theodorusclarence.com/commit/a61a470138ed9fcb2220e3c2d6a8499332ac79f8))
+* **blog:** update hoc to array const ([a07ac82](https://github.com/theodorusclarence/theodorusclarence.com/commit/a07ac82e373a3d008f77bdc533eaa831b78f858d))
+* **blog:** update one-stop-starter ([b340b71](https://github.com/theodorusclarence/theodorusclarence.com/commit/b340b71f8445c39d4fd542d3861d523c6708b707))
+* change code highlight words color ([6ed314d](https://github.com/theodorusclarence/theodorusclarence.com/commit/6ed314d94f323cc68fc55ae31ab31ae6ce5d5c74))
+* change dark background theme ([283336f](https://github.com/theodorusclarence/theodorusclarence.com/commit/283336f9effd761b5a931b32cd1cbde6693834b5))
+* move docs content to shorts ([6cdd42c](https://github.com/theodorusclarence/theodorusclarence.com/commit/6cdd42c0e6a5d402b1c7a09a9981962f49f5080e))
+* rebrand library to shorts ([20175c7](https://github.com/theodorusclarence/theodorusclarence.com/commit/20175c780672fa140dd1f4e395b9be9e1b252e73))
+* revert back to umami thcl ([b9c38e1](https://github.com/theodorusclarence/theodorusclarence.com/commit/b9c38e13004684b9ca6ce50d29c351fc9f3315d7))
+* set spotify image to unoptimized ([aa2a608](https://github.com/theodorusclarence/theodorusclarence.com/commit/aa2a608a296427fab0c3679f697604646340ee3d))
+* temporarily use vercel tracker ([cd41532](https://github.com/theodorusclarence/theodorusclarence.com/commit/cd4153209ff0ace40b717bdb2435734d6eb6b691))
+* update nextjs-fetch-method ([800e0a7](https://github.com/theodorusclarence/theodorusclarence.com/commit/800e0a7adaf969678d5998d62b58716102e83f71))
+* update redirect for old library ([3474c53](https://github.com/theodorusclarence/theodorusclarence.com/commit/3474c53966e9211ca51bf56fdc415178a2ed3f19))
+* update SubscribeCard to substack ([0b9a7d1](https://github.com/theodorusclarence/theodorusclarence.com/commit/0b9a7d10a3ef7cc8afb3d4c3487ce251c6e62d44))
+* update umami event tracker ([16f0476](https://github.com/theodorusclarence/theodorusclarence.com/commit/16f047680d175121a07e35b38ed24d2c569017f7))
+* upgrade to react 18 ([a146f33](https://github.com/theodorusclarence/theodorusclarence.com/commit/a146f336333fa819c9b3a059ee97fa28840db9bd))
+* use env for umami ([a0be831](https://github.com/theodorusclarence/theodorusclarence.com/commit/a0be8311e3fbc8cb774eb2c9d995c9990d49b9d0))
+
+
+### Bug Fixes
+
+* hydration error tooltip ([99ef6a8](https://github.com/theodorusclarence/theodorusclarence.com/commit/99ef6a83fa1a2c22b9f52aa784790ba911f594f4))
+* indonesian blog broke link ([26b3037](https://github.com/theodorusclarence/theodorusclarence.com/commit/26b3037941f0b6b01c99f3219b3822f06b849c4f))
+* views still not showing in cards ([0a12db7](https://github.com/theodorusclarence/theodorusclarence.com/commit/0a12db7be99c107c12eda72c0c800d7c6b85dcfe))
+* wrong slug name for api content ([27e8d49](https://github.com/theodorusclarence/theodorusclarence.com/commit/27e8d4940102195301473ca3a7b09b2085618d17))
+
 ## [3.1.0](https://github.com/theodorusclarence/theodorusclarence.com/compare/v3.0.0...v3.1.0) (2023-01-01)
 
 
